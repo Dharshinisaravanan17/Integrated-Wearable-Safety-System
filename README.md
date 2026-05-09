@@ -92,6 +92,11 @@ When Arduino is **not connected**, the dashboard automatically:
 
 ---
 
+### 📺 Project Demonstration
+[![Watch the video](https://img.shields.io/badge/Video-Demo-red?style=for-the-badge&logo=youtube)](https://www.image2url.com/r2/default/videos/1778305636671-94a0b21e-b357-4cb3-9b7e-a10e2c2401a8.mp4)
+
+*Click the badge above to watch the real-time detection and dashboard synchronization.*
+
 ## 🚀 Future Improvements
 
 ### ☁️ IoT Cloud Integration
