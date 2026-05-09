@@ -1,4 +1,10 @@
-# 🛡️ Smart Wearable Monitoring Dashboard
+# Team Phoenix: Integrated Wearable Safety System
+
+## 👥 The Team
+**Team Phoenix** is comprised of Electronics and Communication Engineering students from Rajalakshmi Institute of Technology.
+
+* **Dharshini S** 
+* **Keerthanaa L** 
 
 Real-time industrial dashboard for biometric + environmental monitoring.
 
